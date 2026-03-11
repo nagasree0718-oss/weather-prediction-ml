@@ -23,3 +23,5 @@ Random Forest Classifier is used to train and predict weather conditions.
 
 ## Results
 The model predicts weather conditions based on the input data.
+
+live link:https://weather-prediction-ml-ptiygh3jnug9sku2piotod.streamlit.app/
